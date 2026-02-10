@@ -20,11 +20,13 @@ This forms the foundation for Smart Medium’s integration with **Leads Gorilla*
 git clone https://github.com/YOUR_USERNAME/leads-gorilla-prototype.git
 cd leads-gorilla-prototype
 
-### 2: Clone the repository
+### 2: Create a Virtual Enviornment
 python -m venv venv
-venv\Scripts\activate   # on Windows
-# or
-source venv/bin/activate  # on Mac/Linux
+venv\Scripts\activate   *on Windows*
+
+or
+
+source venv/bin/activate  *on Mac/Linux*
 
 ### 3: Install Dependencies
 pip install -r requirements.txt
@@ -32,5 +34,5 @@ pip install -r requirements.txt
 ### 4: Create .env file
 GOOGLE_API_KEY=your_google_api_key_here
 
-### 5:Run
+### 5:Run the Script
 python main.py --category " " --location " "
