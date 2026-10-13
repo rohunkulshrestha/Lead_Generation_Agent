@@ -1,6 +1,6 @@
-# Lead Discovery Python Agent (Smart Medium x Leads Gorilla Prototype)
+# Lead Discovery Python Agent (LeadsGorilla Prototype)
 
-Developed by **Rohun Kulshrestha** for **Smart Medium**, this prototype represents an intelligent, AI-driven lead generation system designed to help businesses uncover new clients with data-backed precision.
+Developed by **Rohun Kulshrestha** for **LeadsGorilla**, this prototype represents an intelligent, AI-driven lead generation system designed to help businesses uncover new clients with data-backed precision.
 
 ## Overview
 
